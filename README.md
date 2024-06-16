@@ -4,7 +4,7 @@ Hi 👋 My name is Keattisak Nantharat
 Student
 -------
 
-กำลังศึกษาอยู่ที่โรงเรียนเตรียมอุดมศึกษาพัฒนาการ ร้อยเอ็ด
+Khon Kean Uninversity
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My portfolio](http://keattisaknantharat.github.io/portfolio/index.html)
